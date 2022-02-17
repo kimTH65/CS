@@ -5,7 +5,7 @@
 <hr>
 
 <h4> BFS , 너비 우선 탐색(Breadth-First Search)</h4>
-![image](https://user-images.githubusercontent.com/59690816/154556111-81b31606-0aab-40ec-af9a-337ece47324a.png)
+<img src="https://user-images.githubusercontent.com/59690816/154556111-81b31606-0aab-40ec-af9a-337ece47324a.png">
  [출처 : 위키피디아(깊이 우선 탐색)]
 
 <h6>그래프를 너비를 우선으로 탐색하는 방법, 가까운 노드를 먼저 탐색하는 방법 , 최단 경로를 찾아 줄 수 있다.
