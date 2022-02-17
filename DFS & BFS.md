@@ -7,7 +7,7 @@
 <br><br>스택, 큐, 재귀함수를 사용하여 구현 가능</h4>           
 <hr>
 
-<h2> BFS , 너비 우선 탐색(Breadth-First Search)</h2>
+<h2>     BFS , 너비 우선 탐색(Breadth-First Search)</h2>
 <img src="https://github.com/kimTH65/cs/blob/main/dfs_bfs/Breadth-First-Search.gif">
 <h5>출처 : 위키피디아(Breadth-First-Search)</h5>
 
