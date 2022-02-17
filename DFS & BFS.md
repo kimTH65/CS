@@ -1,6 +1,7 @@
 <h2> DFS , 깊이 우선 탐색(Depth-First Search)</h2>
+<div style="text-align: center">
 <img src="https://github.com/kimTH65/cs/blob/main/dfs_bfs/Depth-First-Search.gif">
-<h5><right>출처 : 위키피디아(Depth-First-Search)</h5>
+<h5>출처 : 위키피디아(Depth-First-Search)</h5>
 
 <h4>그래프를 깊이를 우선으로 탐색하는 방법, 모든 노드를 방문해야 할 때 사용
 <br><br>노드 방문처리 하는 것이 중요, 노드 방문 시 방문여부를 반드시 검사
