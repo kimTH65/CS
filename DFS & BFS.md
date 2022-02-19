@@ -7,6 +7,7 @@
 <br><br> - 노드 방문처리 하는 것이 중요, 노드 방문 시 방문여부를 반드시 검사
 <br><br> - 스택, 큐, 재귀함수를 사용하여 구현 가능</h5>         
 
+<br>
 <h2> BFS , 너비 우선 탐색(Breadth-First Search)</h2>
 <img src="https://github.com/kimTH65/cs/blob/main/dfs_bfs/Breadth-First-Search.gif">
 <h6>출처 : 위키피디아(Breadth-First-Search)</h6>
@@ -15,6 +16,7 @@
 <br><br> - 재귀를 사용하지 않고, 방문 처리/여부를 검사하는 것이 중요함 
 <br><br> - 큐를 사용하여 구현 가능</h5>           
 
+<br>
 <h2> DFS,BFS </h2>
 <h5> - 그래프의 모든 정점을 방문하는 경우 DFS,BFS 둘 다 사용가능
 <br><br><br> - 경로의 특징이 있으면 DFS, 최단 거리는 BFS
