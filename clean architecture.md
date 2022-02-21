@@ -1,8 +1,8 @@
 
 <h2> Clean Architecture</h2>
 
-<img src="https://github.com/kimTH65/cs/blob/main/dfs_bfs/Depth-First-Search.gif">
-<h6>출처 : 위키피디아(Depth-First-Search)</h6>
+<img src="https://github.com/kimTH65/cs/blob/main/img/CleanArchitecture.jpg">
+<h6>출처 : https://blog.cleancoder.com/</h6>
 
 <br>
 <h4>원 안쪽으로 향해서만 의존하며 , 바깥쪽 원은 안쪽 원에 영향을 주면 안된다.</h4>
