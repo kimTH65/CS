@@ -11,4 +11,9 @@
 <br><br> - Use Cases : 비즈니스 규칙
 <br><br> - Interface Adapters : mvp의 presenter, mvvm 의 viewmodel 등, 순수한 비즈니스 로직
 <br><br> - Frameworks & Drivers : 프레임워크,데이터베이스,UI 등
-</h5>         
+</h5> 
+<br><br>
+<h3>안드로이드 에서 클린아키텍처를 적용하면 다음과 같은 구조를 가지게 된다.</h3>
+<img src="https://github.com/kimTH65/cs/blob/main/img/cleanAnd.png">
+<h6>출처 : https://qiita.com/koutalou/items/07a4f9cf51a2d13e4cdc</h6>
+
