@@ -40,7 +40,24 @@ def dfs(graph,m,visited) :
  - 재귀를 사용하지 않고, 방문 처리/여부를 검사하는 것이 중요함 
 <br><br> - 큐를 사용하여 구현 가능
 </h6>           
+<br>
+```python
+from collections import deque
 
+def bfs(graph, start):
+    visit = list()
+    que = deque()
+
+    que.append(start)
+
+    while que :
+        node = que.pop(0)
+        if node not in visit:
+            visit.append(node)
+            que.extend(graph[node])
+    
+
+```
 <br>
 <h2> DFS,BFS </h2>
 <h5> - 그래프의 모든 정점을 방문하는 경우 DFS,BFS 둘 다 사용가능
