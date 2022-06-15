@@ -15,6 +15,7 @@
 
 ```python
 
+#Python
 visited = [False for _ in range(n)] 
 
 def dfs(graph,m,visited) :
@@ -43,6 +44,8 @@ def dfs(graph,m,visited) :
 <br>
 
 ```python
+
+#Python
 from collections import deque
 
 def bfs(graph, start):
