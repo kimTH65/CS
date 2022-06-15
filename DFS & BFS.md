@@ -41,6 +41,7 @@ def dfs(graph,m,visited) :
 <br><br> - 큐를 사용하여 구현 가능
 </h6>           
 <br>
+
 ```python
 from collections import deque
 
@@ -56,8 +57,8 @@ def bfs(graph, start):
             visit.append(node)
             que.extend(graph[node])
     
-
 ```
+
 <br>
 <h2> DFS,BFS </h2>
 <h5> - 그래프의 모든 정점을 방문하는 경우 DFS,BFS 둘 다 사용가능
