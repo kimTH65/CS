@@ -2,7 +2,7 @@
 <h2> Clean Architecture</h2>
 
 <div align="center">
-<img src="https://github.com/kimTH65/cs/blob/main/img/CleanArchitecture.jpg">
+<img height="400" src="https://github.com/kimTH65/cs/blob/main/img/CleanArchitecture.jpg">
 <h6>출처 : https://blog.cleancoder.com/</h6>
 </div>
 
