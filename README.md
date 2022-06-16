@@ -1,5 +1,7 @@
-# cs
+# cs (Computer Science)
 
+<h6>
+  
 1. 정렬(sort) : <a href="https://github.com/kimTH65/cs/blob/main/%EC%A0%95%EB%A0%AC.md">정렬(sort)</a> 
 
 <br>
@@ -37,3 +39,6 @@
 <br>
 
 10. 디자인 패턴-행위/Design pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%ED%96%89%EC%9C%84).md">디자인 패턴-행위/Design pattern</a>
+  
+  
+</h6>
