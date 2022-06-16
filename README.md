@@ -33,12 +33,16 @@
 8. 이분탐색/이진탐색(binary search) : <a href="https://github.com/kimTH65/cs/blob/main/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89.md">이분탐색/이진탐색(binary search)</a> 
 
 <br>
+  
+9. 유클리드 호제법(Euclidean algorithm) : <a href="https://github.com/kimTH65/cs/blob/main/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95..md">유클리드 호제법(Euclidean algorithm)</a> 
 
-9. 디자인 패턴-생성/Design pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%EC%83%9D%EC%84%B1).md">디자인 패턴-생성/Design pattern</a>
+<br>
+  
+10. 디자인 패턴-생성/Design pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%EC%83%9D%EC%84%B1).md">디자인 패턴-생성/Design pattern</a>
 
 <br>
 
-10. 디자인 패턴-행위/Design pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%ED%96%89%EC%9C%84).md">디자인 패턴-행위/Design pattern</a>
+11. 디자인 패턴-행위/Design pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%ED%96%89%EC%9C%84).md">디자인 패턴-행위/Design pattern</a>
   
   
 </h6>
