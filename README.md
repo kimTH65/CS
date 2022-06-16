@@ -1,4 +1,4 @@
-# cs (Computer Science)
+# CS (Computer Science)
 
 <h6>
   
