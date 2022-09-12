@@ -1,6 +1,4 @@
 <h2> 폭포수(WarterFall)/애자일(Agile) </h2>
-<br>
-
 <h3>폭포수 / WarterFall</h3>
 <h5>단계 : 분석 - 설께 - 개발/구현 - 테스트
 <br>
