@@ -50,6 +50,6 @@
 
 <br>
 
-13. 폭포수(WarterFall)/애자일(Agile)
+13. 폭포수(WarterFall)/애자일(Agile) : <a href="https://github.com/kimTH65/cs/blob/main/%EC%A0%95%EB%A0%AC.md">폭포수(WarterFall)/애자일(Agile)</a> 
     
 </h6>
