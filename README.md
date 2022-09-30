@@ -51,5 +51,9 @@
 <br>
 
 13. 폭포수(WarterFall)/애자일(Agile) : <a href="https://github.com/kimTH65/cs/blob/main/폭포수(WarterFall)and애자일(Agile).md">폭포수(WarterFall)/애자일(Agile)</a> 
+
+<br>
+
+14. Scrum, Scrum Master : 
     
 </h6>
