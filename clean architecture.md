@@ -14,7 +14,7 @@
 <br><br> - Interface Adapters : mvp의 presenter, mvvm 의 viewmodel 등, 순수한 비즈니스 로직
 <br><br> - Frameworks & Drivers : 프레임워크,데이터베이스,UI 등
 </h6> 
-<br><br>
+<br>
 
 <h4>장점</h4>
 <h5>
@@ -25,7 +25,7 @@
 <br><br> - 인터페이스에 대한 의존성이 없어져 인터페이스가 바뀌더라도 클라이언트는 영향이 없음
 <br><br> - 기조 계층형 아키텍처가 가지던 데이터베이스에 대한 의존성이 없어지면서 데이터베이스 없이도 다른 부분을 개발 가능
 </h6> 
-<br><br>
+<br>
 
 
 <div align="center">
