@@ -54,6 +54,6 @@
 
 <br>
 
-14. Scrum, Scrum Master : 
+14. Scrum, Scrum Master :  
     
 </h6>
