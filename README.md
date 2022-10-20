@@ -1,6 +1,6 @@
 # CS (Computer Science)
 
-<h6>
+<h6> 
   
 1. 정렬(sort) : <a href="https://github.com/kimTH65/cs/blob/main/%EC%A0%95%EB%A0%AC.md">정렬(sort)</a> 
  
