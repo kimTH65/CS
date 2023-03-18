@@ -57,7 +57,5 @@
 14. Scrum : <a href="https://github.com/kimTH65/cs/blob/main/1%20-%20ScrumAndScrumMaster.md">Scrum, Scrum Master</a>
 
 <br>
-
-
 </h6> 
 
