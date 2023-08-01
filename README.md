@@ -58,8 +58,7 @@
 
 <br>
 
-
-14. AI :
+15. AI : <a href="https://github.com/kimTH65/cs/blob/main/AI.md">AI</a>
 
 </h6> 
 
