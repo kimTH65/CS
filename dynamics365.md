@@ -11,7 +11,7 @@ dynamics365 sals developer tutorial : https://learn.microsoft.com/ja-jp/dynamics
 <hr>
 <h3>Entity</h3>
 
- - Dynamics 365 Sales開発者ガイド：https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide
+ - Dynamics365Sales開発者ガイド：https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
  - Micrｆosoft Dataverseは普通DBと違い、開発者がデータと対話することがでできるようにする Web サービス 
  - 開発者向けドキュメントでは、場合によって、Power Appsユーザーインターフェイスとは異なる用語を使用
