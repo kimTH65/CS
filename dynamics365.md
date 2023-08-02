@@ -20,6 +20,7 @@ dynamics365 sals developer tutorial : https://learn.microsoft.com/ja-jp/dynamics
 <br>
 
 - テーブル（Entity）<br>
+
 ![image](https://github.com/kimTH65/cs/assets/59690816/d1eba7b0-9c4f-4e07-be25-10e1f3d306b9)
 
 
