@@ -7,11 +7,10 @@ https://dynamics.microsoft.com/ja-jp/dynamics-365-free-trial/<br><br>
 
 dynamics365 sals : 동료 데이터, 고객 데이터, 상황별 고객 데이터를 모두 통합해주는 엔터프라이즈 협업 허브를 통해 가상 공간의 참여 활동을 조정<br><br>
 
-dynamics365 sals developer tutorial : https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide
+Dynamics365のSales開発者ガイド: https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide
 <hr>
 <h3>Entity</h3>
 
- - Dynamics365のSales開発者ガイド：https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
  - Microsoft Dataverseは普通DBと違い、開発者がデータと対話することがでできるようにする Web サービス 
  - 開発者向けドキュメントでは、場合によって、Power Appsユーザーインターフェイスとは異なる用語を使用
