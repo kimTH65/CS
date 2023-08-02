@@ -10,13 +10,17 @@ dynamics365 sals : 동료 데이터, 고객 데이터, 상황별 고객 데이�
 dynamics365 sals developer tutorial : https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide
 <hr>
 <h3>Entity</h3>
-- Dynamics365のentityはMicrosoft Dataverseを利用している 
-- Micrｆosoft Dataverseは普通DBと違い、開発者がデータと対話することがでできるようにする Web サービス 
-- 開発者向けドキュメントでは、場合によって、Power Appsユーザーインターフェイスとは異なる用語を使用 
-![image](https://github.com/kimTH65/cs/assets/59690816/c02a326f-874e-448e-b58a-d0242e333b94)
+
+ - Dynamics365のentityはMicrosoft Dataverseを利用している 
+ - Micrｆosoft Dataverseは普通DBと違い、開発者がデータと対話することがでできるようにする Web サービス 
+ - 開発者向けドキュメントでは、場合によって、Power Appsユーザーインターフェイスとは異なる用語を使用
+ 
+![image](https://github.com/kimTH65/cs/assets/59690816/d886091e-1731-41b9-8786-cfcb178c2e62)
+
 <br>
 
 - テーブル（Entity）<br>
-![image](https://github.com/kimTH65/cs/assets/59690816/1946b621-afd8-4600-aa63-81d6141c474c)
+![image](https://github.com/kimTH65/cs/assets/59690816/d1eba7b0-9c4f-4e07-be25-10e1f3d306b9)
+
 
 
