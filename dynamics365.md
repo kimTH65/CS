@@ -17,5 +17,14 @@ Dynamics365のSales開発者ガイド: https://learn.microsoft.com/ja-jp/dynamic
  
 ![image](https://github.com/kimTH65/cs/assets/59690816/d886091e-1731-41b9-8786-cfcb178c2e62)
 
+<hr>
+<h3>Script를 사용하는 부분</h3>
 
+ - Workflows -> 프로세스 자동 기능에서 사용
+ - WebPage, Form -> JavaSciprt를 삽입하여 필드 유효성 검사, 연산, 이벤트 핸들링 등을 구현
+ - Plugins -> 데이터의 변경사항 감지하고 이에 대해 반응, C#이나 .NET을 이용해 플러그인 작성
+ - Custom Action -> 사용자 정의 기능 추가하기 위해 REST나 SOAP를 사용하여 실행가능한 액션을정의
+ - Web Resources -> 웹 자원을 저장하는데 사용
+ - Processes -> 비즈니스 프로세스 흐름을 정의
+ - Power Apps -> 사용자 정의 기능 추가 
 
