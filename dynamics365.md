@@ -20,7 +20,7 @@ Dynamics365のSales開発者ガイド: https://learn.microsoft.com/ja-jp/dynamic
 <hr>
 <h3>Script를 사용하는 부분</h3>
 
- - https://www.youtube.com/watch?v=tUdL5YZA29A
+ - 참고 : https://www.youtube.com/watch?v=tUdL5YZA29A
  - Workflows -> 프로세스 자동 기능에서 사용
  - WebPage, Form -> JavaSciprt를 삽입하여 필드 유효성 검사, 연산, 이벤트 핸들링 등을 구현
  - Plugins -> 데이터의 변경사항 감지하고 이에 대해 반응, C#이나 .NET을 이용해 플러그인 작성
