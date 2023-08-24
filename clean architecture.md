@@ -21,7 +21,7 @@
 <a>　　　　　　　　　　　　</a>(mvp の presenter, mvvm の view model など、純粋なビジネスロジック)
 <br><br> 
 <a>　　</a>- Frameworks & Drivers : 프레임워크,데이터베이스,UI 등<br>
-<a>　　　　　　　　　　　　　　</a>(フレームワーク、データベース、UI など)
+<a>　　　　　　　　　　　　　</a> &nbsp(フレームワーク、データベース、UI など)
 </h6> 
 <br>
 
