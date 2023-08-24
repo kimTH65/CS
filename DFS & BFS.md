@@ -75,6 +75,10 @@ def bfs(graph, start):
 
 <br>
 <h2> DFS,BFS </h2>
-<h5> - 그래프의 모든 정점을 방문하는 경우 DFS,BFS 둘 다 사용가능
-<br><br> - 경로의 특징이 있으면 DFS, 최단 거리는 BFS
-<br><br> - 그래프가 엄청 크면 DFS,적당하면 BFS가 유리함</h5>           
+<h5> - 그래프의 모든 정점을 방문하는 경우 DFS,BFS 둘 다 사용가능<br>
+<a>　　</a>&nbsp(グラフのすべての頂点を訪問する場合、DFS、BFSの両方が使用可能)
+<br><br> - 경로의 특징이 있으면 DFS, 최단 거리는 BFS<br>
+<a>　　</a>&nbsp(経路の特徴があればDFS、最短距離はBFS)
+<br><br> - 그래프가 엄청 크면 DFS,적당하면 BFS가 유리함<br>
+<a>　　</a>&nbsp(グラフがすごく大きいとDFS、適当ならBFSが有利)
+</h5>           
