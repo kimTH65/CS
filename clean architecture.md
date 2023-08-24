@@ -7,12 +7,21 @@
 </div>
 
 <br>
-<h4>원 안쪽으로 향해서만 의존하며 , 바깥쪽 원은 안쪽 원에 영향을 주면 안된다.</h4>
+<h4>원 안쪽으로 향해서만 의존하며 , 바깥쪽 원은 안쪽 원에 영향을 주면 안된다.<br>
+&nbsp(円の内側に向かってのみ依存し、外側の円は内側の円に影響を与えてはならない。)
+</h4>
 <h6>
- - Entity : 데이터 구조, 함수 집합, 핵심 업무 규칙을 캡슐화, 가장 변하지 않고 영향을 받지않는다.
-<br><br> - Use Cases : 비즈니스 규칙, 업무 규칙, 데이터의 흐름을 정의 
-<br><br> - Interface Adapters : mvp의 presenter, mvvm 의 viewmodel 등, 순수한 비즈니스 로직
-<br><br> - Frameworks & Drivers : 프레임워크,데이터베이스,UI 등
+<a>　　</a>- Entity : 데이터 구조, 함수 집합, 핵심 업무 규칙을 캡슐화, 가장 변하지 않고 영향을 받지않는다.<br>
+<a>　　　　　　</a>(データ構造、関数集合、コアワークルールをカプセル化、最も変わらず影響を受けない)
+<br><br>
+<a>　　</a>- Use Cases : 비즈니스 규칙, 업무 규칙, 데이터의 흐름을 정의<br>
+<a>　　　　　　　　</a>(ビジネスルール、業務ルール、データの流れを定義)
+<br><br> 
+<a>　　</a>- Interface Adapters : mvp의 presenter, mvvm 의 viewmodel 등, 순수한 비즈니스 로직<br>
+<a>　　　　　　　　　　　　</a>(mvp の presenter, mvvm の view model など、純粋なビジネスロジック)
+<br><br> 
+<a>　　</a>- Frameworks & Drivers : 프레임워크,데이터베이스,UI 등<br>
+<a>　　　　　　　　　　　　　　</a>(フレームワーク、データベース、UI など)
 </h6> 
 <br>
 
