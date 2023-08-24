@@ -38,15 +38,15 @@
 
 <br>
   
-10. 디자인 패턴-생성/Design Pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%EC%83%9D%EC%84%B1).md">디자인 패턴-생성/Design pattern</a>
+10. Design Pattern - Creational : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%EC%83%9D%EC%84%B1).md">디자인 패턴-생성/Design pattern</a>
 
 <br>
 
-11. 디자인 패턴-행위/Design pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%ED%96%89%EC%9C%84).md">디자인 패턴-행위/Design pattern</a>
+11. Design pattern - Behavioral : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%ED%96%89%EC%9C%84).md">디자인 패턴-행위/Design pattern</a>
   
 <br>
   
-12. 디자인 패턴-구조/Design pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%EA%B5%AC%EC%A1%B0).md ">디자인 패턴-구조/Design pattern</a>
+12. Design pattern - Structural : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%EA%B5%AC%EC%A1%B0).md ">디자인 패턴-구조/Design pattern</a>
 
 <br>
 
