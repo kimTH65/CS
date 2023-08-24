@@ -1,5 +1,5 @@
 
-# SOLID (Object Oriented Programming) - 객체지향 5대 원칙
+# SOLID - five main principles of Object-Oriented Programming
 
 
 <h2> SRP(단일 책임 원칙/単一責任の原則)</h2>
