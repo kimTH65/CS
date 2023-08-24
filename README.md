@@ -2,7 +2,7 @@
 
 <h6>  
   
-1. 정렬(sort) : <a href="https://github.com/kimTH65/cs/blob/main/%EC%A0%95%EB%A0%AC.md">정렬(sort)</a> 
+1. Sort : <a href="https://github.com/kimTH65/cs/blob/main/%EC%A0%95%EB%A0%AC.md">정렬(sort)</a> 
  
 <br> 
 
@@ -10,7 +10,7 @@
 
 <br>
 
-3. 동적계획법(dynamic programming) : <a href="https://github.com/kimTH65/cs/blob/main/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95.md">동적계획법(dynamic programming) </a>
+3. Dynamic Programming : <a href="https://github.com/kimTH65/cs/blob/main/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95.md">동적계획법(dynamic programming) </a>
 
 <br>
 
@@ -18,27 +18,27 @@
 
 <br>
 
-5. SOLID 원칙 : <a href="https://github.com/kimTH65/cs/blob/main/SOLID%20%EC%9B%90%EC%B9%99.md">SOLID 원칙</a> 
+5. SOLID : <a href="https://github.com/kimTH65/cs/blob/main/SOLID%20%EC%9B%90%EC%B9%99.md">SOLID 원칙</a> 
 
 <br>
 
-6. 다익스트라(dijkstra) : <a href="https://github.com/kimTH65/cs/blob/main/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC.md">다익스트라(dijkstra) 알고리즘</a> 
+6. Dijkstra : <a href="https://github.com/kimTH65/cs/blob/main/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC.md">다익스트라(dijkstra) 알고리즘</a> 
 
 <br>
 
-7. 비트마스크(bit mask) : <a href="https://github.com/kimTH65/cs/blob/main/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC.md">비트마스크(bit mask)</a> 
+7. Bit Mask : <a href="https://github.com/kimTH65/cs/blob/main/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC.md">비트마스크(bit mask)</a> 
 
 <br>
 
-8. 이분탐색/이진탐색(binary search) : <a href="https://github.com/kimTH65/cs/blob/main/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89.md">이분탐색/이진탐색(binary search)</a> 
+8. Binary Search : <a href="https://github.com/kimTH65/cs/blob/main/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89.md">이분탐색/이진탐색(binary search)</a> 
  
 <br>
 
-9. 유클리드 호제법(Euclidean algorithm) : <a href="https://github.com/kimTH65/cs/blob/main/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95.md">유클리드 호제법(Euclidean algorithm)</a> 
+9. Euclidean Algorithm : <a href="https://github.com/kimTH65/cs/blob/main/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95.md">유클리드 호제법(Euclidean algorithm)</a> 
 
 <br>
   
-10. 디자인 패턴-생성/Design pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%EC%83%9D%EC%84%B1).md">디자인 패턴-생성/Design pattern</a>
+10. 디자인 패턴-생성/Design Pattern : <a href="https://github.com/kimTH65/cs/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4(%EC%83%9D%EC%84%B1).md">디자인 패턴-생성/Design pattern</a>
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-13. 폭포수(WarterFall)/애자일(Agile) : <a href="https://github.com/kimTH65/cs/blob/main/폭포수(WarterFall)and애자일(Agile).md">폭포수(WarterFall)/애자일(Agile)</a> 
+13. WarterFall/Agile : <a href="https://github.com/kimTH65/cs/blob/main/폭포수(WarterFall)and애자일(Agile).md">폭포수(WarterFall)/애자일(Agile)</a> 
 
 <br>
 
