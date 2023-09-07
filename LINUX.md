@@ -1,5 +1,10 @@
 # COMAND
-cd : <br>
-move : <br>
-zip : <br>
-sh : <br>
+
+ - cd : <br>
+ - move : <br>
+ - zip : <br>
+ - sh : <br>
+ 
+ 
+ 
+ 
