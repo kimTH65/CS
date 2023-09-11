@@ -1,6 +1,6 @@
 # COMAND
 
- - cd : <br>
+ - cd : cd..    cd~/ <br>
  - move : <br>
  - zip : <br>
  - sh : <br>
