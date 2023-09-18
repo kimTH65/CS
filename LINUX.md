@@ -5,7 +5,7 @@
  - move : <br>
  - zip : <br>
  - sh : <br>
- - mkdir : <br>
+ - mkdir : 새 디렉토리 생성<br>
  - ctrl + c : 실행중인 명령이나 프로세스 종료
  
  
