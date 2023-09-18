@@ -5,7 +5,7 @@
  - zip : <br>
  - sh : <br>
  - mkdir : <br>
- 
+ - ctrl + c
  
  
  
