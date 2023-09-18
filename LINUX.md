@@ -5,7 +5,7 @@
  - zip : <br>
  - sh : <br>
  - mkdir : <br>
- - ctrl + c
+ - ctrl + c : 실행중인 명령이나 프로세스 종료
  
  
  
