@@ -6,7 +6,7 @@
 　　CD ~ home 디렉토리로 이동<br>
 　　CD – 이전 디렉토리로 이동<br>
  - mv :　move <br>
- - zip : <br>
+ - zip : zip filename.zip /path/to/dir <br>
  - sh : <br>
  - mkdir : 새 디렉토리 생성<br>
  - rmdir : 디렉토리 삭제<br>
