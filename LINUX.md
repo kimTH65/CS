@@ -8,7 +8,7 @@
  - mv :　move <br>
  - zip : zip filename.zip /path/to/dir <br>
  - sh : 쉘 스크립트, 파일 형식은 .sh<br>
-   　　touch 명령어를 이용해 쉘 생성, chmod 를 이용해 권한 부여<br>
+   　touch 명령어를 이용해 쉘 생성, chmod 를 이용해 권한 부여<br>
       
  - mkdir : 새 디렉토리 생성<br>
  - rmdir : 디렉토리 삭제<br>
