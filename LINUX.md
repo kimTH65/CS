@@ -7,7 +7,7 @@
 　　CD – 이전 디렉토리로 이동<br>
  - mv :　move <br>
  - zip : zip filename.zip /path/to/dir <br>
- - sh : <br>
+ - sh : 쉘 스크립트, 파일 형식은 .sh<br>
  - mkdir : 새 디렉토리 생성<br>
  - rmdir : 디렉토리 삭제<br>
  - ctrl + c : 실행중인 명령이나 프로세스 종료
