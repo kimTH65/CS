@@ -1,7 +1,7 @@
 # COMAND
  - pwd : Print Work Directory - 디렉토리 표시 <br>
  - ls : List Segments - 파일, 디렉토리 정보 제공<br>
- - ll : <br>
+ - ll : ls 명령어에 -l 옵션을 준 형태<br>
  - cd : CD .. 부모 디렉토리로 이동 <br>
 　　CD ~ home 디렉토리로 이동<br>
 　　CD – 이전 디렉토리로 이동<br>
