@@ -5,7 +5,7 @@
  - cd : CD .. 부모 디렉토리로 이동 <br>
 　　CD ~ home 디렉토리로 이동<br>
 　　CD – 이전 디렉토리로 이동<br>
- - mv :　mv [source] [target]<br>
+ - mv : mv [source] [target]<br>
  - zip : zip [filename.zip] [/path/to/dir] <br>
  - sh : 쉘 스크립트, 파일 형식은 .sh<br>
    　touch 명령어를 이용해 쉘 생성, chmod 를 이용해 권한 부여, echo를 이용해 확인, sh로 실행가능<br>
