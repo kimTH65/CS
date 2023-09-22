@@ -5,6 +5,8 @@
  - cd : CD .. 부모 디렉토리로 이동 <br>
 　　CD ~ home 디렉토리로 이동<br>
 　　CD – 이전 디렉토리로 이동<br>
+ - cp : copy [source] [target]<
+   -r로 디렉토리 복사<br>br>
  - mv : mv [source] [target]<br>
  - zip : zip [filename.zip] [/path/to/dir] <br>
  - sh : 쉘 스크립트, 파일 형식은 .sh<br>
