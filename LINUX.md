@@ -11,7 +11,7 @@
  - zip : zip [filename.zip] [/path/to/dir] <br>
  - sh : 쉘 스크립트, 파일 형식은 .sh<br>
    　touch 명령어를 이용해 쉘 생성, chmod 를 이용해 권한 부여, echo를 이용해 확인, sh로 실행가능<br>
-      
+ - find : find [검색경로] -name [파일명]    <br>
  - mkdir : 새 디렉토리 생성<br>
  - rmdir : 디렉토리 삭제<br>
  - ctrl + c : 실행중인 명령이나 프로세스 종료
