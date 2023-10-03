@@ -8,7 +8,8 @@
  - cp : copy [source] [target]<br>
    -r로 디렉토리 복사<br>
  - mv : mv [source] [target]<br>
- - zip : zip [filename.zip] [/path/to/dir] <br>
+ - zip : zip [filename.zip] [/path/to/dir]<br>
+　　　　-r를 붙이면 하위 디렉터리 전부 포함<br>
  - sh : 쉘 스크립트, 파일 형식은 .sh<br>
    　touch 명령어를 이용해 쉘 생성, chmod 를 이용해 권한 부여, echo를 이용해 확인, sh로 실행가능<br>
  - find : find [검색경로] -name [파일명] <br>
