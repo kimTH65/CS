@@ -2,7 +2,7 @@
 
 <h6>  
   
-1. Sort : <a href="https://github.com/kimTH65/cs/blob/main/%EC%A0%95%EB%A0%AC.md">정렬(sort)</a> 
+1. Sort : <a href="https://github.com/kimTH65/CS/blob/main/1%20-%20%EC%A0%95%EB%A0%AC.md">정렬(sort)</a> 
  
 <br> 
 
