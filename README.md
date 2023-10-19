@@ -58,6 +58,6 @@
 
 <br>
 
-15. Encryp : <a href="https://github.com/kimTH65/CS/blob/main/15%20-%20%EC%95%94%ED%98%B8%ED%99%94.md">암호화</a>
+15. Encryp : <a href="https://github.com/kimTH65/CS/blob/main/15%20-%20%EC%95%94%ED%98%B8%ED%99%94.md">Encryp(암호화)</a>
 
 </h6> 
