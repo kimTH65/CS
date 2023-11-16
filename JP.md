@@ -53,11 +53,11 @@
   
 <br>
   
-12. <a href="jp/12 - 디자인 패턴(구조).md">디자인 패턴-구조/Design pattern</a>
+12. <a href="jp/12 - 디자인 패턴(구조).md">Design Pattern - Structural</a>
 
 <br>
 
-13. <a href="jp/13 - 폭포수(WarterFall)and애자일(Agile).md">Design Pattern - Structural</a> 
+13. <a href="jp/13 - 폭포수(WarterFall)and애자일(Agile).md">WarterFall / Agile</a> 
 
 <br>
 
