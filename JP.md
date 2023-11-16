@@ -9,7 +9,7 @@
 
 <h6>  
   
-1. <a href="jp/1 - 정렬.md">sort</a> 
+1. <a href="jp/1 - 정렬.md">Sort</a> 
  
 <br> 
 
@@ -17,7 +17,7 @@
 
 <br>
 
-3. <a href="jp/3 - 동적 계획법.md">dynamic programming </a>
+3. <a href="jp/3 - 동적 계획법.md">Dynamic Programming </a>
 
 <br>
 
@@ -29,19 +29,19 @@
 
 <br>
 
-6. <a href="jp/6 - 다익스트라.md">dijkstra</a> 
+6. <a href="jp/6 - 다익스트라.md">Dijkstra</a> 
 
 <br>
 
-7. <a href="jp/7 - 비트마스크.md">bit mask</a> 
+7. <a href="jp/7 - 비트마스크.md">Bit Mask</a> 
 
 <br>
 
-8. <a href="jp/8 - 이분 탐색.md">binary search</a> 
+8. <a href="jp/8 - 이분 탐색.md">Binary Search</a> 
  
 <br>
 
-9. <a href="jp/9 - 유클리드 호제법.md">Euclidean algorithm</a> 
+9. <a href="jp/9 - 유클리드 호제법.md">Euclidean Algorithm</a> 
 
 <br>
   
