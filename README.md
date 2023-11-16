@@ -65,6 +65,6 @@
 
 <br>
 
-15. <a href="kr/15 - 암호화.md">Encryp(암호화)</a>
+15. <a href="kr/15 - 암호화.md">암호화(Encryption)</a>
 
 </h6> 
