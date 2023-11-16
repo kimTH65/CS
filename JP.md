@@ -65,6 +65,6 @@
 
 <br>
 
-15. <a href="jp/15 - 암호화.md">Encryp</a>
+15. <a href="jp/15 - 암호화.md">Encryption</a>
 
 </h6> 
