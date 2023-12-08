@@ -7,7 +7,6 @@
   </h5>
 </div>
 
-  
 <h3>Algorithm<h3>    
   
 <h6>  
