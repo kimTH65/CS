@@ -33,13 +33,13 @@
 
 - <a href="jp/9 - 유클리드 호제법.md">Euclidean Algorithm</a>
 
+<br>
+
 </h6>
 
 <h3>Computer Science<h3>   
   
 <h6> 
-  
-<br>
 
 - <a href="jp/7 - 비트마스크.md">Bit Mask</a> 
 
