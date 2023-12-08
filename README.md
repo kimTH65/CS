@@ -7,8 +7,10 @@
   </h5>
 </div>
 
-<h6>  
+  
 <h3>Algorithm<h3>    
+  
+<h6>  
   
 1. <a href="kr/1 - 정렬.md">정렬(sort)</a> 
  
@@ -30,41 +32,47 @@
 
 <br>
 
-6. <a href="kr/9 - 유클리드 호제법.md">유클리드 호제법(Euclidean algorithm)</a> 
-<br>
-
-7. <a href="kr/7 - 비트마스크.md">비트마스크(bit mask)</a> 
-
-<br>
-
-8. <a href="kr/5 - SOLID 원칙.md">SOLID 원칙</a> 
+6. <a href="kr/9 - 유클리드 호제법.md">유클리드 호제법(Euclidean algorithm)</a>
  
 <br>
 
-9. <a href="kr/4 - clean architecture.md">Clean Architecture</a>
+</h6>
+
+<h3>Computer Science<h3>   
+  
+<h6> 
+1. <a href="kr/7 - 비트마스크.md">비트마스크(bit mask)</a> 
+
+<br>
+
+2. <a href="kr/5 - SOLID 원칙.md">SOLID 원칙</a> 
+ 
+<br>
+
+3. <a href="kr/4 - clean architecture.md">Clean Architecture</a>
 
 <br>
   
-10. <a href="kr/10 - 디자인 패턴(생성).md">디자인 패턴-생성/Design pattern</a>
+4. <a href="kr/10 - 디자인 패턴(생성).md">디자인 패턴-생성/Design pattern</a>
 
 <br>
 
-11. <a href="kr/11 - 디자인 패턴(행위).md">디자인 패턴-행위/Design pattern</a>
+5. <a href="kr/11 - 디자인 패턴(행위).md">디자인 패턴-행위/Design pattern</a>
   
 <br>
   
-12. <a href="kr/12 - 디자인 패턴(구조).md">디자인 패턴-구조/Design pattern</a>
+6. <a href="kr/12 - 디자인 패턴(구조).md">디자인 패턴-구조/Design pattern</a>
 
 <br>
   
-13. <a href="kr/13 - 폭포수(WarterFall)and애자일(Agile).md">폭포수(WarterFall)/애자일(Agile)</a> 
+7. <a href="kr/13 - 폭포수(WarterFall)and애자일(Agile).md">폭포수(WarterFall)/애자일(Agile)</a> 
 
 <br>
 
-14. <a href="kr/14 - ScrumAndScrumMaster.md">Scrum, Scrum Master</a>
+8. <a href="kr/14 - ScrumAndScrumMaster.md">Scrum, Scrum Master</a>
 
 <br>
 
-15. <a href="kr/15 - 암호화.md">암호화(Encryption)</a>
+9. <a href="kr/15 - 암호화.md">암호화(Encryption)</a>
 
 </h6> 
