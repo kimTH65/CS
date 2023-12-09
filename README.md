@@ -35,6 +35,9 @@
  
 <br>
 
+ - <a href="kr/16 - 크루스칼 알고리즘.md">크루스칼 알고리즘</a>
+ 
+<br>
 </h6>
 
 <h3>Computer Science<h3>   
