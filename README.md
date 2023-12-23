@@ -38,6 +38,14 @@
  - <a href="kr/16 - 크루스칼 알고리즘.md">크루스칼 알고리즘(Kruskal Algorithm)</a>
  
 <br>
+
+ - <a href="kr/17 - 에라토스테네스의 체.md">에라토스테네스의 체(Sieve of Eratosthenes)</a>
+ 
+<br>
+
+ - <a href="kr/18 - 플로이드 워셜.md">에라토스테네스의 체(Floyd-Warshall)</a>
+ 
+<br>
 </h6>
 
 <h3>Computer Science<h3>   
