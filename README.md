@@ -43,7 +43,7 @@
  
 <br>
 
- - <a href="kr/18 - 플로이드 워셜.md">에라토스테네스의 체(Floyd-Warshall)</a>
+ - <a href="kr/18 - 플로이드 워셜.md">플로이드 워셜(Floyd-Warshall)</a>
  
 <br>
 </h6>
