@@ -50,6 +50,10 @@
  - <a href="kr/19 - 위상 정렬.md">위상 정렬(Topology Sort)</a>
   
 <br>
+
+ - <a href="kr/20 - 강한결합요소.md">강한결합요소(Strongly Connected Component)</a>
+  
+<br>
 </h6>
 
 <h3>Computer Science<h3>   
