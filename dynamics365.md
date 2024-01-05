@@ -7,7 +7,10 @@ https://dynamics.microsoft.com/ja-jp/dynamics-365-free-trial/<br>
 
 dynamics365 sals : 동료 데이터, 고객 데이터, 상황별 고객 데이터를 모두 통합해주는 엔터프라이즈 협업 허브를 통해 가상 공간의 참여 활동을 조정<br>
 
-Dynamics365のSales開発者ガイド: https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide
+Dynamics365のSales開発者ガイド: https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide<br>
+
+
+https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-plug-in
 <hr>
 <h3>Entity</h3>
 
