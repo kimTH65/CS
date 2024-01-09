@@ -32,3 +32,5 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
  - Processes -> 비즈니스 프로세스 흐름을 정의
  - Power Apps -> 사용자 정의 기능 추가 
 
+<hr>
+ソリューション : カスタマイザーと開発者が Dynamics 365 for Customer Engagement を拡張する単体ソフトウェアを作成、パッケージ化、および保守する方法です。
