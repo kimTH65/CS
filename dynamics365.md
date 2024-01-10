@@ -21,7 +21,7 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
 ![image](https://github.com/kimTH65/cs/assets/59690816/d886091e-1731-41b9-8786-cfcb178c2e62)
 
 <hr>
-<h3>Script를 사용하는 부분</h3>
+<h3>Script를 사용하는 부분</h3> 
 
  - 참고 : https://www.youtube.com/watch?v=tUdL5YZA29A
  - Workflows -> 프로세스 자동 기능에서 사용
