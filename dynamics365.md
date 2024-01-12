@@ -9,6 +9,7 @@ dynamics365 sals : 동료 데이터, 고객 데이터, 상황별 고객 데이�
 
 Dynamics365のSales開発者ガイド: https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide<br>
 
+https://kageura.hatenadiary.jp/entry/2015/04/17/190000<br>
 
 https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-plug-in
 <hr>
