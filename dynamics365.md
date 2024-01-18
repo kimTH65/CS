@@ -39,3 +39,4 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
  - ソリューション : カスタマイザーと開発者が Dynamics 365 for Customer Engagement を拡張する単体ソフトウェアを作成、パッケージ化、および保守する方法です。
  - フロー : データを一貫して入力し、顧客と作業するたびに同じステップを実行するように確認することができます。
  - Back = 워크플로우/플러그인, Front = 비즈니스룰/스크립트
+ - 세큐리티 룰,솔루션,엔티티,폼,뷰
