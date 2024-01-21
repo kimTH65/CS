@@ -40,3 +40,4 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
  - フロー : データを一貫して入力し、顧客と作業するたびに同じステップを実行するように確認することができます。
  - Back = 워크플로우/플러그인, Front = 비즈니스룰/스크립트
  - 세큐리티 룰,솔루션,엔티티,폼,뷰
+ - xml , 외부연결
