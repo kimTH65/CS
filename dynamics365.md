@@ -41,3 +41,4 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
  - Back = 워크플로우/플러그인, Front = 비즈니스룰/스크립트
  - 세큐리티 룰,솔루션,엔티티,폼,뷰
  - xml , 외부연결
+ - 폼,테이블 수정
