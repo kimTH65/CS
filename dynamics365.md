@@ -35,7 +35,7 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
 
 <hr>
 
- - nuget패키지
+ - 플러그인을 Visual Studio에서 사용 시 nuget패키지를 이용하여 관련 라이브러리를 설치
  - ソリューション : カスタマイザーと開発者が Dynamics 365 for Customer Engagement を拡張する単体ソフトウェアを作成、パッケージ化、および保守する方法です。
  - フロー : データを一貫して入力し、顧客と作業するたびに同じステップを実行するように確認することができます。
  - Back = 워크플로우/플러그인, Front = 비즈니스룰/스크립트
