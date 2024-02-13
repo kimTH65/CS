@@ -43,3 +43,11 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
  - xml , 외부연결
  - 폼,테이블 수정
  - 외부연결, azure
+
+
+<hr>
+plugin
+
+```
+
+```
