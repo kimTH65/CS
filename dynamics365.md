@@ -46,7 +46,7 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
 
 
 <hr>
-plugin
+<h3>plugin</h3>
 
 ```
 // Obtain the tracing service
