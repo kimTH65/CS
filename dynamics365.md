@@ -85,6 +85,7 @@ if (context.InputParameters.Contains("Target") &&
         tracingService.Trace("FollowUpPlugin: {0}", ex.ToString());
         throw;
     }
+ executionContext.getEventArgs().preventDefault();
 }
 ```
 tracing service <hr>
