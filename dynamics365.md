@@ -1,14 +1,27 @@
 <h1>dynamics365</h1>
 
-### Memo
+<h3>사용경험</h3>
 
-CRM(Customer Relationship Management) : 곡객 관계 관리 시스템 <br>
-dynamics365（CRM） URL：
-https://dynamics.microsoft.com/ja-jp/dynamics-365-free-trial/<br>
-Dynamics365のSales開発者ガイド: https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide<br>
-https://kageura.hatenadiary.jp/entry/2015/04/17/190000<br>
-https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-plug-in
-<hr>
+ - 세큐리티 룰,솔루션,엔티티,폼,뷰
+ - xml , 외부연결
+ - 폼,테이블 수정
+ - 외부연결, azure
+
+<h3>Memo</h3>
+
+ - CRM(Customer Relationship Management) : 고객 관계 관리 시스템 <br>
+ - dynamics365（CRM） URL：
+ - https://dynamics.microsoft.com/ja-jp/dynamics-365-free-trial/<br>
+ - Dynamics365のSales개발자 가이드: https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide<br>
+ - https://kageura.hatenadiary.jp/entry/2015/04/17/190000<br>
+ - https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-plug-in
+ - 플러그인을 Visual Studio에서 사용 시 nuget패키지를 이용하여 관련 라이브러리를 설치
+ - Back = 워크플로우/플러그인, Front = 비즈니스룰/스크립트
+ - 세큐리티 룰,솔루션,엔티티,폼,뷰
+ - xml , 외부연결
+ - 폼,테이블 수정
+ - 외부연결, azure
+ - 
 <h3>Entity</h3>
 
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
@@ -17,32 +30,12 @@ https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-pl
  
 ![image](https://github.com/kimTH65/cs/assets/59690816/d886091e-1731-41b9-8786-cfcb178c2e62)
 
-<hr>
-<h3>Script를 사용하는 부분</h3> 
 
- - 참고 : https://www.youtube.com/watch?v=tUdL5YZA29A
- - Workflows -> 프로세스 자동 기능에서 사용
- - WebPage, Form -> JavaSciprt를 삽입하여 필드 유효성 검사, 연산, 이벤트 핸들링 등을 구현
- - Plugins -> 데이터의 변경사항 감지하고 이에 대해 반응, C#이나 .NET을 이용해 플러그인 작성
- - Custom Action -> 사용자 정의 기능 추가하기 위해 REST나 SOAP를 사용하여 실행가능한 액션을정의
- - Web Resources -> 웹 자원을 저장하는데 사용
- - Processes -> 비즈니스 프로세스 흐름을 정의
- - Power Apps -> 사용자 정의 기능 추가 
 
-<hr>
-
- - 플러그인을 Visual Studio에서 사용 시 nuget패키지를 이용하여 관련 라이브러리를 설치
- - ソリューション : カスタマイザーと開発者が Dynamics 365 for Customer Engagement を拡張する単体ソフトウェアを作成、パッケージ化、および保守する方法です。
- - フロー : データを一貫して入力し、顧客と作業するたびに同じステップを実行するように確認することができます。
- - Back = 워크플로우/플러그인, Front = 비즈니스룰/스크립트
- - 세큐리티 룰,솔루션,엔티티,폼,뷰
- - xml , 외부연결
- - 폼,테이블 수정
- - 외부연결, azure
 
 
 <hr>
-<h3>plugin</h3>
+<h3>Plugin Memo(C#)</h3>
 
 ```
 // Obtain the tracing service
