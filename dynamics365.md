@@ -76,6 +76,27 @@ if (context.InputParameters.Contains("Target") &&
     }
  executionContext.getEventArgs().preventDefault();
 }
+}
+```
+
+<hr>
+<h3>Java Script Memo</h3>
+
+```
+function test(ExecutionContext) {
+    //콘텍스트 습득
+    var executionContext = ExecutionContext.getFormContext();
+
+    //현재열린 텝 확인 로직
+    var currentTab = ""
+    executionContext.ui.tabs.forEach(tab => {
+        if (tab.getDisplayState() === "expanded") {
+            currentTab = tab.getName();
+        }
+    )
+    ExecutionContext.ui.getEventArgs().preventDefault();//저장방지
+}
+
 ```
 ### 사용기술, 작성예정 
 
