@@ -35,7 +35,7 @@
 
 
 <hr>
-<h3>Plugin Memo(C#)</h3>
+<h3>Plugin Memo(C#) - Back_End</h3>
 
 ```
 // Obtain the tracing service
@@ -80,7 +80,7 @@ if (context.InputParameters.Contains("Target") &&
 ```
 
 <hr>
-<h3>Java Script Memo</h3>
+<h3>Java Script Memo - Front_End</h3>
 
 ```
 function test(ExecutionContext) {
