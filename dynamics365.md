@@ -32,8 +32,6 @@
 
 
 
-
-
 <hr>
 <h3>Plugin Memo(C#) - Back_End</h3>
 
