@@ -97,6 +97,10 @@ function test(ExecutionContext) {
 }
 
 ```
+<hr>
+<h3> fetch xml</h3>
+
+
 ### 사용기술, 작성예정 
 
  - context,onsave , alert,oncreate,PREVENT SAVE
