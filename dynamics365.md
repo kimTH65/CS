@@ -100,6 +100,9 @@ function test(ExecutionContext) {
 <hr>
 <h3> fetch xml</h3>
 
+ - linked-entity
+ - group by
+
 ```
 ```
 <hr>
