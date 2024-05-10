@@ -102,7 +102,7 @@ function test(ExecutionContext) {
 
  - linked-entity
  - group by
-
+ - entity collection
 ```
 ```
 <hr>
