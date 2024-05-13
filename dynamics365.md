@@ -103,6 +103,8 @@ function test(ExecutionContext) {
  - linked-entity
  - group by
  - entity collection
+ - guid
+ - MetaData를 이용해서 속성정보 획득가능
 ```
 ```
 <hr>
