@@ -105,6 +105,7 @@ function test(ExecutionContext) {
  - entity collection
  - guid
  - MetaData를 이용해서 속성정보 획득가능
+ - Entity 
 ```
 ```
 <hr>
