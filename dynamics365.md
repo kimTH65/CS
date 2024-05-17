@@ -107,6 +107,7 @@ function test(ExecutionContext) {
  - MetaData를 이용해서 속성정보 획득가능
  - Entity 
  - Lookup, Picklist
+ - 멀티쓰레드, sendmail -> mail box
 ```
 ```
 <hr>
