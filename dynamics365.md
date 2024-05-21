@@ -98,7 +98,7 @@ function test(ExecutionContext) {
 
 ```
 <hr>
-<h3> fetch xml</h3>
+<h3> fetch xml (c#)</h3>
 
  - linked-entity
  - group by
@@ -108,6 +108,7 @@ function test(ExecutionContext) {
  - Entity 
  - Lookup, Picklist
  - 멀티쓰레드, sendmail -> mail box
+ - csv파일 사용해서 기초 세팅 가능
 ```
 ```
 <hr>
