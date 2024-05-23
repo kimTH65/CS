@@ -110,6 +110,7 @@ function test(ExecutionContext) {
  - 멀티쓰레드, sendmail -> mail box
  - csv파일 사용해서 기초 세팅 가능
  - group by, aggregate 사용시 row 길이가 50000 까지 정해져 있음 -> dynamics의 config 테이블 설정 해서 limit 수정가능
+ - select는 시간이 별로 안걸림 , delete update create가 시간이 많이 걸림
 ```
 ```
 <hr>
