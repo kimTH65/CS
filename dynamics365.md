@@ -5,7 +5,7 @@
  - 세큐리티 룰, 솔루션, 엔티티, 폼, 뷰
  - xml, 외부연결
  - 폼, 테이블 수정
- - 외부연결, azure, Power AutoMate, Script, Plugin, 외부패치설계/계발
+ - 외부연결, azure, Power AutoMate, Script, Plugin, 외부패치설계/계발, fetch xml
 
 <h3>Memo</h3>
 
@@ -112,6 +112,7 @@ function test(ExecutionContext) {
  - group by, aggregate 사용시 row 길이가 50000 까지 정해져 있음 -> dynamics의 config 테이블 설정 해서 limit 수정가능
  - select는 시간이 별로 안걸림 , delete update create가 시간이 많이 걸림
  - 메일이 보내지지 않을경우 dynamics 메일 박스 체크
+ -    
 ```
 ```
 <hr>
