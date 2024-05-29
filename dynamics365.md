@@ -5,7 +5,7 @@
  - 세큐리티 룰, 솔루션, 엔티티, 폼, 뷰
  - xml, 외부연결
  - 폼, 테이블 수정
- - 외부연결, azure, Power AutoMate, Script, Plugin, 외부패치설계/계발, fetch xml
+ - 외부연결, azure, Power AutoMate, Script, Plugin, 외부패치설계/계발
 
 <h3>Memo</h3>
 
