@@ -21,7 +21,7 @@
  - xml , 외부연결
  - 폼,테이블 수정
  - 외부연결, azure
- - 
+ - dynamics 자격증
 <h3>Entity</h3>
 
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
