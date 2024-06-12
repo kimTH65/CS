@@ -24,7 +24,7 @@
  - dynamics 자격증
  - preimage
  - Power automate로 엑셀 이름 바꾸기 : https://www.youtube.com/watch?v=-Z1_43SWboM
- - 
+
 <h3>Entity</h3>
 
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
