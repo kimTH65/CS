@@ -25,6 +25,8 @@
  - preimage
  - Power automate로 엑셀 이름 바꾸기 : https://www.youtube.com/watch?v=-Z1_43SWboM
  - Power automate json으로 insert, update
+ - excel 함수
+
 <h3>Entity</h3>
 
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
