@@ -26,6 +26,7 @@
  - Power automate로 엑셀 이름 바꾸기 : https://www.youtube.com/watch?v=-Z1_43SWboM
  - Power automate json으로 insert, update
  - excel 함수
+ - 레거시 기능
 
 <h3>Entity</h3>
 
