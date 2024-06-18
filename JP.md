@@ -35,8 +35,6 @@
 
 <br>
 
-<br>
-
  - <a href="jp/16 - 크루스칼 알고리즘.md">Kruskal Algorithm</a>
 
 <br>
