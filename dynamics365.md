@@ -28,6 +28,7 @@
  - excel 함수
  - 레거시 기능
  - crm-설정-개인설정-전자메일탭에서 타인메일송신허가설정가능
+ - setNotification, setFormNotification다름
 
 <h3>Entity</h3>
 
