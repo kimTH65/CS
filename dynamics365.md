@@ -31,7 +31,7 @@
  - setNotification, setFormNotification다름
  - https://community.powerplatform.com/forums/thread/details/?threadid=79ad26b5-af2f-420d-a5d9-ba96694d483b
  - power automate에서 excel스크립크 실행 가능
-
+ - 모델,캔버스 어플
 <h3>Entity</h3>
 
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
