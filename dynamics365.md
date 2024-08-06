@@ -10,7 +10,6 @@
 <h3>Memo</h3>
 
  - CRM(Customer Relationship Management) : 고객 관계 관리 시스템 <br>
- - dynamics365（CRM） URL：
  - https://dynamics.microsoft.com/ja-jp/dynamics-365-free-trial/<br>
  - Dynamics365のSales개발자 가이드: https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide<br>
  - https://kageura.hatenadiary.jp/entry/2015/04/17/190000<br>
