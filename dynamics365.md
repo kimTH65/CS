@@ -31,6 +31,11 @@
  - https://community.powerplatform.com/forums/thread/details/?threadid=79ad26b5-af2f-420d-a5d9-ba96694d483b
  - power automate에서 excel스크립크 실행 가능
  - 모델,캔버스 어플
+ -  - context,onsave , alert,oncreate,PREVENT SAVE
+ - executionContext.getEventArgs().preventDefault();
+ - tabs.set : 텝을 기준으로 액션 설정 가능, 비즈니스룰에서도 탭을 트리거로 설정가능
+ - リトライ、Webservice
+   
 <h3>Entity</h3>
 
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
@@ -129,8 +134,5 @@ function test(ExecutionContext) {
 
 ### 사용기술, 작성예정 
 
- - context,onsave , alert,oncreate,PREVENT SAVE
- - executionContext.getEventArgs().preventDefault();
- - tabs.set : 텝을 기준으로 액션 설정 가능, 비즈니스룰에서도 탭을 트리거로 설정가능
- - リトライ、Webservice
+
 
