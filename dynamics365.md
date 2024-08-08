@@ -2,7 +2,7 @@
 
 <h3>사용경험</h3>
 
- - 세큐리티 룰, 솔루션, 엔티티, 폼, 뷰
+ - 세큐리티 룰, 솔루션, 엔티티, 폼, 뷰, 모델기동 어플
  - xml, 외부연결
  - 폼, 테이블 수정, Ribbon, fetch xml
  - 외부연결, azure, Power AutoMate, Script, Plugin, 외부패치설계/계발, 에러처리
