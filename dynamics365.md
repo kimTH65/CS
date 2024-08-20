@@ -3,8 +3,8 @@
 <h3>사용경험</h3>
 
  - security roles, solution, entity, form, view, Ribbon, fetch xml, Azure, Power AutoMate, Script, Plugin ...
+ - 외부패치설계/계발, 에러처리
  - 
- - , 외부패치설계/계발, 에러처리
 
 <h3>Memo</h3>
 
