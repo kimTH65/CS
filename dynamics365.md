@@ -2,9 +2,9 @@
 
 <h3>사용경험</h3>
 
- - 세큐리티 룰, 솔루션, 엔티티, 폼, 뷰,
- - Ribbon, fetch xml
- - azure, Power AutoMate, Script, Plugin, 외부패치설계/계발, 에러처리
+ - security roles, solution, entity, form, view, Ribbon, fetch xml, Azure, Power AutoMate, Script, Plugin ...
+ - 
+ - , 외부패치설계/계발, 에러처리
 
 <h3>Memo</h3>
 
