@@ -124,7 +124,7 @@ function test(ExecutionContext) {
 <hr>
 <h3> 자격증 취득 메모</h3>
 mb-910
-
+https://www.examtopics.com/exams/microsoft/mb-910/
 
 
 
