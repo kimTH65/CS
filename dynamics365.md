@@ -125,6 +125,6 @@ function test(ExecutionContext) {
 <h3> 자격증 취득 메모</h3>
 mb-910
 https://www.examtopics.com/exams/microsoft/mb-910/
-
+Marketing,Sales,Customer Service,Field Service
 
 
