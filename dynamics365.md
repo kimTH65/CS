@@ -116,8 +116,6 @@ function test(ExecutionContext) {
  - select는 시간이 별로 안걸림 , delete update create가 시간이 많이 걸림
  - 메일이 보내지지 않을경우 dynamics 메일 박스 체크
 
-```
-```
 <hr>
 <h3> 자격증 취득 메모</h3>
 mb-910
