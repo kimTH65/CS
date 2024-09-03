@@ -118,8 +118,9 @@ function test(ExecutionContext) {
 
 <hr>
 <h3> 자격증 취득 메모</h3>
-mb-910
-https://www.examtopics.com/exams/microsoft/mb-910/
-Marketing,Sales,Customer Service,Field Service
+mb-910<br>
+https://www.examtopics.com/exams/microsoft/mb-910/<br>
+Marketing,Sales,Customer Service,Field Service<br>
+https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/?practice-assessment-type=certification
 
 
