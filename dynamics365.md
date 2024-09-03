@@ -119,7 +119,7 @@ function test(ExecutionContext) {
 <hr>
 <h3> 자격증 취득 메모</h3>
 mb-910<br>
-https://www.examtopics.com/exams/microsoft/mb-910/<br>
+[https://www.examtopics.com/exams/microsoft/mb-910/](https://www.examtopics.com/exams/microsoft/mb-910/view/6/)<br>
 https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/?practice-assessment-type=certification<br>
 Dynamics 365 Customer Insights :  마케팅 자동화 기능은 조직에 잠재 고객을 안내하고 육성하는 데 도움이 되는 자동화된 고객 여정을 설계할 수 있는 견고한 기반을 제공<br>
 Dynamics 365 Sales :  판매 프로세스를 성공적이고 효과적으로 관리하는 데 사용할 수 있는 핵심 제품 기능과 기타 도구 및 AI 기능<br>
