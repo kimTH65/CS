@@ -132,5 +132,6 @@ invoice : 송장<br>
 Opportunity : 기회,상담<br>
 EntitleMent : 권한<br>
 queue : 대기열<br>
+Service level agreements(SLA) : 서비스 수준 계약(SLA),서비스 회사와 서비스 고객 간의 계약 <br>
 
 
