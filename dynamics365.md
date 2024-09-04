@@ -130,5 +130,6 @@ Leads : 잠재 고객<br>
 quotes : 견적<br>
 invoice : 송장<br>
 Opportunity : 기회,상담<br>
+EntitleMent : 권한
 
 
