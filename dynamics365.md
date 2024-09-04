@@ -124,6 +124,8 @@ https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-c
 Dynamics 365 Customer Insights :  프로필을 통합하고 대상 고객의 경험을 조정합니다<br>
 Dynamics 365 Sales :  전체 판매 주문 수명 주기 동안 사용자를 효율적으로 지원<br>
 Dynamics 365 Customer Service :  전체 고객 지원 수명 주기 동안 에이전트의 사례 관리를 지원<br>
-Dynamics 365 Field Service :  고객에게 온사이트 서비스를 제공하고 모바일 인력을 관리하는 데 필요한 도구를 제공<br>
+Dynamics 365 Field Service :  고객에게 온사이트 서비스를 제공하고 모바일 인력을 관리하는 데 필요한 도구를 제공<br><br>
+
+Leads : potential customers<br>
 
 
