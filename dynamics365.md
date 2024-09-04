@@ -128,5 +128,6 @@ Dynamics 365 Field Service :  고객에게 온사이트 서비스를 제공하�
 
 Leads : 잠재 고객<br>
 quotes : 견적<br>
+invoice : 송장<br>
 
 
