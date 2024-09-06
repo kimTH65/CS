@@ -102,6 +102,7 @@ function test(ExecutionContext) {
 ```
 <hr>
 <h3> fetch xml (c#)</h3>
+
  - MetaData를 이용해서 속성정보 획득가능
  - Lookup, Picklist
  - 멀티쓰레드, sendmail -> mail box
