@@ -102,13 +102,7 @@ function test(ExecutionContext) {
 ```
 <hr>
 <h3> fetch xml (c#)</h3>
-
- - linked-entity
- - group by
- - entity collection
- - guid
  - MetaData를 이용해서 속성정보 획득가능
- - Entity 
  - Lookup, Picklist
  - 멀티쓰레드, sendmail -> mail box
  - csv파일 사용해서 기초 세팅 가능
