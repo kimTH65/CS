@@ -104,7 +104,6 @@ function test(ExecutionContext) {
 <h3> fetch xml (c#)</h3>
 
  - MetaData를 이용해서 속성정보 획득가능
- - Lookup, Picklist
  - 멀티쓰레드, sendmail -> mail box
  - csv파일 사용해서 기초 세팅 가능
  - group by, aggregate 사용시 row 길이가 50000 까지 정해져 있음 -> dynamics의 config 테이블 설정 해서 limit 수정가능
