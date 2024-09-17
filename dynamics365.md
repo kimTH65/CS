@@ -9,7 +9,6 @@
 
  - CRM(Customer Relationship Management) : 고객 관계 관리 시스템 <br>
  - https://dynamics.microsoft.com/ja-jp/dynamics-365-free-trial/<br>
- - Dynamics365のSales개발자 가이드: https://learn.microsoft.com/ja-jp/dynamics365/sales/developer/developer-guide<br>
  - https://kageura.hatenadiary.jp/entry/2015/04/17/190000<br>
  - https://learn.microsoft.com/ja-jp/power-apps/developer/data-platform/register-plug-in
  - 플러그인을 Visual Studio에서 사용 시 nuget패키지를 이용하여 관련 라이브러리를 설치
