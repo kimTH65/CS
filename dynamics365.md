@@ -113,7 +113,7 @@ function test(ExecutionContext) {
 mb-910<br>
 https://www.examtopics.com/exams/microsoft/mb-910/view/6/<br>
 https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/?practice-assessment-type=certification<br>
-Dynamics 365 Customer Insights(Marcketing) :  프로필을 통합하고 대상 고객의 경험을 조정합니다<br>
+Dynamics 365 Customer Insights :  프로필을 통합하고 대상 고객의 경험을 조정합니다<br>
     - Journeys<br>
     - Data<br>
 Dynamics 365 Sales :  전체 판매 주문 수명 주기 동안 사용자를 효율적으로 지원<br>
