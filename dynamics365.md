@@ -3,7 +3,6 @@
 <h3>사용경험</h3>
 
  - security roles, solution, entity, form, view, Ribbon, fetch xml, Azure, Power AutoMate, Script, Plugin ...
- - 외부패치설계/계발, 에러처리
  
 <h3>Memo</h3>
 
@@ -14,7 +13,6 @@
  - 플러그인을 Visual Studio에서 사용 시 nuget패키지를 이용하여 관련 라이브러리를 설치
  - Back = 워크플로우/플러그인, Front = 비즈니스룰/스크립트
  - Power automate로 엑셀 이름 바꾸기 : https://www.youtube.com/watch?v=-Z1_43SWboM
- - Power automate json으로 insert, update
  - crm-설정-개인설정-전자메일탭에서 타인메일송신허가설정가능
  - setNotification, setFormNotification다름
  - https://community.powerplatform.com/forums/thread/details/?threadid=79ad26b5-af2f-420d-a5d9-ba96694d483b
