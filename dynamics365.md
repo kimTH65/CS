@@ -2,7 +2,7 @@
 
 <h3>사용경험</h3>
 
- - security roles, solution, entity, form, view, Ribbon, fetch xml, Azure, Power AutoMate, Script, Plugin ...
+ - model/canvas application,security roles, solution, entity, form, view, Ribbon, fetch xml, Azure, Power AutoMate, Script, Plugin ...
  
 <h3>Memo</h3>
 
