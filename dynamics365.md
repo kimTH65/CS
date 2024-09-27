@@ -20,7 +20,6 @@
  - 어플종류는 모델,캔버스 두가지가 존재
  - executionContext.getEventArgs().preventDefault();
  - tabs.set : 텝을 기준으로 액션 설정 가능, 비즈니스룰에서도 탭을 트리거로 설정가능
- - 모델기반 앱 에서도 캔버스 사용가능
  - 캔버스페이지에 Flow사용
 <h3>Entity</h3>
 
