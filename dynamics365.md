@@ -21,8 +21,6 @@
  - executionContext.getEventArgs().preventDefault();
  - tabs.set : 텝을 기준으로 액션 설정 가능, 비즈니스룰에서도 탭을 트리거로 설정가능
  - 캔버스페이지에 Flow사용
-<h3>Entity</h3>
-
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
  - Microsoft Dataverseは普通DBと違い、開発者がデータと対話することがでできるようにする Web サービス 
  - 開発者向けドキュメントでは、場合によって、Power Appsユーザーインターフェイスとは異なる用語を使用
