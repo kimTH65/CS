@@ -23,7 +23,6 @@
  - 캔버스페이지에 Flow사용
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
  - Microsoft Dataverseは普通DBと違い、開発者がデータと対話することがでできるようにする Web サービス 
- - 開発者向けドキュメントでは、場合によって、Power Appsユーザーインターフェイスとは異なる用語を使用
  
 ![image](https://github.com/kimTH65/cs/assets/59690816/d886091e-1731-41b9-8786-cfcb178c2e62)
 
