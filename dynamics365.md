@@ -20,7 +20,7 @@
  - tabs.set : 텝을 기준으로 액션 설정 가능, 비즈니스룰에서도 탭을 트리거로 설정가능
  - 캔버스페이지에 Flow사용
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
- - Microsoft Dataverseは普通DBと違い、開発者がデータと対話することがでできるようにする Web サービス 
+
  
 ![image](https://github.com/kimTH65/cs/assets/59690816/d886091e-1731-41b9-8786-cfcb178c2e62)
 
