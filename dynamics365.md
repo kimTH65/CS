@@ -18,7 +18,6 @@
  - power automate에서 excel스크립크 실행 가능
  - executionContext.getEventArgs().preventDefault();
  - tabs.set : 텝을 기준으로 액션 설정 가능, 비즈니스룰에서도 탭을 트리거로 설정가능
- - 캔버스페이지에 Flow사용
  - Dynamics365のentityはMicrosoft Dataverseを利用している 
 
  
