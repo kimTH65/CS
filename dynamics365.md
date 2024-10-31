@@ -15,7 +15,6 @@
  - Power automate로 엑셀 이름 바꾸기 : https://www.youtube.com/watch?v=-Z1_43SWboM
  - setNotification, setFormNotification다름
  - https://community.powerplatform.com/forums/thread/details/?threadid=79ad26b5-af2f-420d-a5d9-ba96694d483b
- - power automate에서 excel스크립크 실행 가능
  - executionContext.getEventArgs().preventDefault();
  - tabs.set : 텝을 기준으로 액션 설정 가능, 비즈니스룰에서도 탭을 트리거로 설정가능
 
