@@ -52,4 +52,6 @@ PCA 등 <br>
 
 <hr>
 인공지능이 인간과 닮은점 : 인식, 이해, 반응<br>
+![image](https://github.com/user-attachments/assets/597c51bb-fac0-430a-9196-893e0b50003b)
+
 
