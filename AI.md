@@ -7,13 +7,12 @@ AI(Artificial Intelligence) : 인간이 지니고 있는 지능의 원리를 찾
 AI 개발에 필요한 지식 : 머신러닝, 수학(선형대수, 확률, 미적분학, 통계, 최적화 이론), 프로그래밍  <br>
 
 공부 순서 : 수학적 기초 지식(확률 통계, 미적분, 선형대수) -> 프로그래밍 (Python등) -> 머신러닝 -> 딥러닝  <br> 
-참고용 : https://aiheroes.ai/community/248
+참고용 : https://aiheroes.ai/community/248 <br> 
+https://www.youtube.com/watch?v=54OfxlYAY40&list=PLzZ7PPT4KK5qQQO095fTfvVcKbCbUVBjq&index=3
 <br>
 <hr>
-<h3>프로그래밍</h3>
-
-<hr>
 <h3>머신러닝</h3>
+인공지능이 인간과 닮은점 : 인식, 이해, 반응<br>
 
 <hr>
 <h3>딥러닝</h3>
@@ -50,8 +49,7 @@ PCA 등 <br>
 불확실성 정량화 - 다항식 혼돈, 벡터 공간에 대한 투영 <br>
 
 
-<hr>
-인공지능이 인간과 닮은점 : 인식, 이해, 반응<br>
+
 
 
 
