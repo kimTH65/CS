@@ -18,7 +18,7 @@
  - executionContext.getEventArgs().preventDefault();
  - tabs.set : 텝을 기준으로 액션 설정 가능, 비즈니스룰에서도 탭을 트리거로 설정가능
  - WepApi이용시 ClientSecret을 이용하는 경우 PowerApps환경에 어플리케이션을 등록해야한다
-
+ - pcfコントロール
  
 ![image](https://github.com/kimTH65/cs/assets/59690816/d886091e-1731-41b9-8786-cfcb178c2e62)
 
