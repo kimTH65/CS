@@ -13,7 +13,9 @@ https://www.youtube.com/watch?v=54OfxlYAY40&list=PLzZ7PPT4KK5qQQO095fTfvVcKbCbUV
 <hr>
 <h3>머신러닝</h3>
 인공지능이 인간과 닮은점 : 인식, 이해, 반응<br>
-잘 푸는 문제 : 분류,회귀,예측 , 그룹화,이상값 감지, 강화학습<br>
+지도학습(Supervised Learning) : 분류,회귀,예측  
+비지도학습(Un_Supervised Learning) : 그룹화,이상값 감지,
+강화학습(Reinforcement Learning) : 강화학습<br>
 <hr>
 <h3>딥러닝</h3>
 
